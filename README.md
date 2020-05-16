@@ -18,12 +18,30 @@ import React, { Component } from 'react'
 import { CodeViewer } from 'react-extensible-code-viewer'
 import 'react-extensible-code-viewer/dist/index.css'
 
+const code = `const a = 2
+const b = 3;
+console.log(a + b)`
+
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <CodeViewer code={code} language='javascript' />
   }
 }
 ```
+
+## Customization
+
+You can also customize the line component using the `line` render prop:
+
+```tsx
+class Example extends Component {
+  render() {
+    return <CodeViewer code={code} language='javascript' line={(lineNumber, code, children) => <MyLineComponent />)} />
+  }
+}
+```
+
+You can see a working example [here](https://joserenan.github.io/react-extensible-code-viewer/)
 
 ## License
 
