@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-extensible-code-viewer/static/css/main.4cf2e432.chunk.css",
+    "main.js": "/react-extensible-code-viewer/static/js/main.dd12c9bc.chunk.js",
+    "main.js.map": "/react-extensible-code-viewer/static/js/main.dd12c9bc.chunk.js.map",
+    "runtime-main.js": "/react-extensible-code-viewer/static/js/runtime-main.8001039b.js",
+    "runtime-main.js.map": "/react-extensible-code-viewer/static/js/runtime-main.8001039b.js.map",
+    "static/css/2.ad8e7604.chunk.css": "/react-extensible-code-viewer/static/css/2.ad8e7604.chunk.css",
+    "static/js/2.56741772.chunk.js": "/react-extensible-code-viewer/static/js/2.56741772.chunk.js",
+    "static/js/2.56741772.chunk.js.map": "/react-extensible-code-viewer/static/js/2.56741772.chunk.js.map",
+    "index.html": "/react-extensible-code-viewer/index.html",
+    "precache-manifest.3f9ddfd181ba7971af6ea532e8ae4593.js": "/react-extensible-code-viewer/precache-manifest.3f9ddfd181ba7971af6ea532e8ae4593.js",
+    "service-worker.js": "/react-extensible-code-viewer/service-worker.js",
+    "static/css/2.ad8e7604.chunk.css.map": "/react-extensible-code-viewer/static/css/2.ad8e7604.chunk.css.map",
+    "static/css/main.4cf2e432.chunk.css.map": "/react-extensible-code-viewer/static/css/main.4cf2e432.chunk.css.map",
+    "static/js/2.56741772.chunk.js.LICENSE.txt": "/react-extensible-code-viewer/static/js/2.56741772.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8001039b.js",
+    "static/css/2.ad8e7604.chunk.css",
+    "static/js/2.56741772.chunk.js",
+    "static/css/main.4cf2e432.chunk.css",
+    "static/js/main.dd12c9bc.chunk.js"
+  ]
+}
