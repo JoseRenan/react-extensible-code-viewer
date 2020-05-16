@@ -1,0 +1,30 @@
+{
+  "name": "react-extensible-code-viewer-example",
+  "homepage": "https://JoseRenan.github.io/react-extensible-code-viewer",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "link:../node_modules/react",
+    "react-dom": "link:../node_modules/react-dom",
+    "react-extensible-code-viewer": "link:..",
+    "react-scripts": "link:../node_modules/react-scripts"
+  },
+  "scripts": {
+    "start": "node ../node_modules/react-scripts/bin/react-scripts.js start",
+    "build": "node ../node_modules/react-scripts/bin/react-scripts.js build",
+    "test": "node ../node_modules/react-scripts/bin/react-scripts.js test",
+    "eject": "node ../node_modules/react-scripts/bin/react-scripts.js eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "tailwindcss": "^1.4.6"
+  }
+}

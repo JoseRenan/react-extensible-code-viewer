@@ -1,0 +1,35 @@
+/* add css module styles here (optional) */
+
+.container {
+  padding-left: 0;
+  padding-right: 0;
+  font-size: 0.9rem;
+  font-family: consolas, monaco, monospace;
+  border-width: thin;
+  border-color: #d4d4d4;
+  border-style: solid;
+}
+
+.pre {
+  tab-size: 4;
+  margin: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  width: 100%;
+}
+
+.line {
+  display: flex;
+}
+
+.lineContainer {
+  padding-bottom: 0.2em;
+  padding-top: 0;
+}
+
+.lineNumber {
+  color: #b9babc;
+  text-align: right;
+  width: 3em;
+  margin-right: 1.5em;
+}
