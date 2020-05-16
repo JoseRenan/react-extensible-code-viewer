@@ -1,6 +1,6 @@
 # react-extensible-code-viewer
 
-> A simple and extensible codeviewer component for react
+A simple and extensible codeviewer component for react. [See example](https://joserenan.github.io/react-extensible-code-viewer/)
 
 [![NPM](https://img.shields.io/npm/v/react-extensible-code-viewer.svg)](https://www.npmjs.com/package/react-extensible-code-viewer) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
